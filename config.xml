@@ -1,0 +1,10 @@
+<Configuration>
+  <UserName>drutladm</UserName>
+  <Password>01000000d08c9ddf0115d1118c7a00c04fc297eb01000000b876ab2cfa2f824aa18a26e6dca0aae5000000000200000000001066000000010000200000004ecb5eee975c367958920733d67a77bf8f02b243d044156fc82b3968f6094f9b000000000e8000000002000020000000dc825e459b5cfa900453494668a336ca3fef5ff1a544412f553373d237d5749c200000004f2fc4bd0cd7269e5f582e5ea513bcda33bad743fdf95e02b7c7132be70a8f0940000000f721026c2c79aa0741afb2d695a6a182708a7900da85aa92d8c03b9c71a89c0eaea2198277ff3a626f6ad2a363e7bc6f6af4641654b63206a2001f988575593e</Password>
+  <WorkingDir>F:/WinSCP-PowerShell-Transfer/</WorkingDir>
+  <TargetHost>10.235.32.185</TargetHost>
+  <TargetDir>/drdata/drutility/rvtools/</TargetDir>
+  <LogFile>SFTP.log</LogFile>
+  <SshHostKeyFingerprint>ssh-ed25519 255 DpYwqyQknHpEFYQdn8wKD4ZxmQwfQcquGfSnhlG0roU=</SshHostKeyFingerprint>
+  <SshPrivateKeyPath></SshPrivateKeyPath>
+</Configuration>
